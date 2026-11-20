@@ -1,0 +1,5 @@
+member=Alice
+Python Basics; 18 November 2026; 2 pm
+Git Workshop; 20 November 2026; 11 am
+this is malformed
+Networking 101; 23 November 2026; 10 am
